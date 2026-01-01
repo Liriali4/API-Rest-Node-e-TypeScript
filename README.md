@@ -10,7 +10,6 @@ O objetivo é servir como **base sólida** para o desenvolvimento de APIs escal�
 - **Node.js**
 - **TypeScript**
 - **Express 5**
-- **ts-node-dev** (ambiente de desenvolvimento)
 - **Yarn** (gerenciador de pacotes)
 
 ---
