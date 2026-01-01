@@ -1,13 +1,10 @@
 import express from "express";
+import router from "./routes";
 
 const server = express();
 
-interface teste{
-    
-}
+server.use(express.json());
 
-server.get("/", (_req, res) => {
-    res.send("API rodando 🚀");
-});
+server.use(router);
 
 export default server;
