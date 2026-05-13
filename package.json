@@ -4,7 +4,6 @@
     "main": "index.js",
     "author": "Liria Li4",
     "license": "MIT",
-    "private": false,
     "scripts": {
         "start": "ts-node-dev src/index.ts",
         "start-build": "ts-node-dev build/index.js",
